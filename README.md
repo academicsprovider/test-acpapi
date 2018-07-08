@@ -5,17 +5,9 @@
   a) Student
   b) Teacher
   c) Institute
-3) Create simple Passport authentication
-4) Send two ajax request 1 for login and 2nd for register, and display any text with the simple conditions as per user types
-5) Create a simple validation if student or teacher writes wrong password or username
-
-Students and Teachers sample Information:
---
-1) username
-2) email
-3) password
-4) Country
-5) City
+3) Create simple register & Login form by using passport authentication
+4) Send two ajax request 1 for login and 2nd for register, and display any text with the simple conditions as per user roles
+5) Please test and push the code once you are done.
 
 Thats it!
 
