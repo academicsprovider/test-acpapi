@@ -1,7 +1,7 @@
 # test-acpapi
 
 1) Install fresh laravel project
-2) craete migration and seeder for the database which should have 3 user roles
+2) Create migration and seeder for the database which should have 3 user roles (Relational Database Management)
   a) Student
   b) Teacher
   c) Institute
